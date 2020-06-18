@@ -1,0 +1,388 @@
+<?php
+header('Content-type:text');
+
+define("TOKEN", "weixin");
+$wechatObj = new wechatCallbackapiTest();
+
+
+
+
+if (!isset($_GET['echostr'])) {
+    $wechatObj->responseMsg();
+}else{
+    $wechatObj->valid();
+}
+
+
+
+
+
+
+
+class wechatCallbackapiTest
+{
+    function checkdb($name)
+    {$db = mysql_connect(SAE_MYSQL_HOST_M.':'.SAE_MYSQL_PORT,SAE_MYSQL_USER,SAE_MYSQL_PASS);
+        if (!$db)
+        {
+            die('Could not connect: '.mysql_error());//错误信息打印
+        }
+        else
+        {
+           mysql_select_db(SAE_MYSQL_DB, $db);
+           $result = mysql_query("SELECT* FROM FUNCTION WHERE gongneng ='".$name."'");
+           $array = mysql_fetch_array($result);
+           return $array['value'];
+        }
+    }
+     
+    
+    //更新数据库
+     public function updatestate($name,$value)
+     {$db = mysql_connect(SAE_MYSQL_HOST_M.':'.SAE_MYSQL_PORT,SAE_MYSQL_USER,SAE_MYSQL_PASS);
+        if (!$db)
+        {
+            die('Could not connect: '.mysql_error());//错误信息打印
+        }
+        else
+        {
+            mysql_select_db(SAE_MYSQL_DB, $db);
+            
+            
+            mysql_query("UPDATE FUNCTION SET value = ".$value."
+            WHERE gongneng ='".$name."'");
+         }
+}
+    
+    //验证签名
+    public function valid()
+    {
+        $echoStr = $_GET["echostr"];
+        $signature = $_GET["signature"];
+        $timestamp = $_GET["timestamp"];
+        $nonce = $_GET["nonce"];
+        $token = TOKEN;
+        $tmpArr = array($token, $timestamp, $nonce);
+        sort($tmpArr, SORT_STRING);
+        $tmpStr = implode($tmpArr);
+        $tmpStr = sha1($tmpStr);
+        if($tmpStr == $signature){
+            echo $echoStr;
+            exit;
+        }
+    }
+
+    //响应消息
+    public function responseMsg()
+    {
+        $postStr = $GLOBALS["HTTP_RAW_POST_DATA"];
+        if (!empty($postStr)){
+            $this->logger("R \r\n".$postStr);
+            $postObj = simplexml_load_string($postStr, 'SimpleXMLElement', LIBXML_NOCDATA);
+            $RX_TYPE = trim($postObj->MsgType);
+            
+            //消息类型分离
+            switch ($RX_TYPE)
+            {
+                case "event":
+                    $result = $this->receiveEvent($postObj);
+                    break;
+                case "text":
+                    $result = $this->receiveText($postObj);
+                    break;
+                case "image":
+                    $result = $this->receiveImage($postObj);
+                    break;
+                case "location":
+                    $result = $this->receiveLocation($postObj);
+                    break;
+                case "voice":
+                    $result = $this->receiveVoice($postObj);
+                    break;
+                case "video":
+				case "shortvideo":
+                    $result = $this->receiveVideo($postObj);
+                    break;
+                case "link":
+                    $result = $this->receiveLink($postObj);
+                    break;
+                default:
+                    $result = "unknown msg type: ".$RX_TYPE;
+                    break;
+            }
+            $this->logger("T \r\n".$result);
+            echo $result;
+        }else {
+            echo "";
+            exit;
+        }
+    }
+    
+    private function receiveEvent($object)
+    {
+        $content = "";
+        switch ($object->Event)
+        {
+            case "subscribe":
+                $content = "  ☆欢迎使用auto狗☆\n什么功能都还没有[捂脸]";
+                break;
+            case "unsubscribe":
+                $content = "取消关注";
+                break;
+         }
+        return $result;
+    }
+
+   
+
+    //接收文本消息
+    private function receiveText($object)
+    {
+        $keyword = trim($object->Content);
+        $str = mb_substr($keyword,-2,2,"UTF-8");
+		$str_key = mb_substr($keyword,0,-2,"UTF-8");
+        
+        if($str == '天气' && !empty($str_key))
+            {
+            $data = $this->weathernow($str_key);
+			
+            if($data['HeWeather5'][0]['status']=='ok')	
+            {		$content ="★AUTO狗★为您播报\n"."  【".$str_key."】实时天气".
+             "\n体感温度 ".$data['HeWeather5'][0]['now']['fl']."℃  ".$data['HeWeather5'][0]['now']['cond']['txt'].
+             "\n相对湿度 ".$data['HeWeather5'][0]['now']['hum']."%".
+             "\n空气质量 ".$data['HeWeather5'][0]['aqi']['city']['qlty'];   
+            }
+            else{$content="咬你！！！";}       
+			}
+		
+        
+        else if(strpos($keyword,"路")||strpos($keyword,"街")||strpos($keyword,"高速")||strpos($keyword,"道"))
+        {$situation=$this->LUKUANG($keyword);
+         
+         if($situation['status']=='1')
+         $content=$situation['trafficinfo']['description'];
+         
+         else
+         $content="找不到!!!![皱眉]";
+         
+        }
+        else if($keyword=="实时")
+        {$content='<a href="http://1.justest.applinzi.com">实时状况</a>';
+        }
+        
+       else if($keyword=="翻译狗")
+       {$this->updatestate("translate",1);
+        $content="OU~~";}
+       
+       else if($keyword=="天气狗")
+       {$this->updatestate("translate",0);
+        $content="冷！";}
+        
+        else if($keyword=="开")
+        {$content=file_get_contents('http://justest.applinzi.com/get.php?LED=1');
+         $content="开了吧";
+        }
+        
+        else if($keyword=="关")
+        {$content=file_get_contents('http://justest.applinzi.com/get.php?LED=0'); 
+         $content="关了吧";
+        }
+        
+        else{
+            
+            
+            $english=$this->translate($keyword);
+            $content=$english['trans_result'][0]['dst'];
+        }
+            
+           
+
+        if(is_array($content))
+        {
+            if (isset($content[0]))
+            {
+                $result = $this->transmitNews($object, $content);
+            }
+        }
+        else
+        {
+            $result = $this->transmitText($object, $content);
+        }
+        return $result;
+    }
+   
+    
+    //接收位置消息
+    private function receiveLocation($object)
+    {
+        $distance1=$this->GAODE($object);
+        $content = "   ★你的位置★\n经度为：".$object->Location_Y."\n纬度为：".$object->Location_X."\n位置为：".$object->Label.
+                   "\n你距离中国农业大学东校区还有\n".$distance1['results'][0]['distance']."米";
+        $result = $this->transmitText($object, $content);
+        return $result;
+    }
+    
+    
+    //接收语音消息
+    private function receiveVoice($object)
+    {
+        
+            $content = array("MediaId"=>$object->MediaId);
+            $result = $this->transmitVoice($object, $content);
+        
+        return $result;
+    }
+
+   
+    
+
+    //回复文本消息
+    private function transmitText($object, $content)
+    {
+        
+
+        $xmlTpl = "<xml>
+    <ToUserName><![CDATA[%s]]></ToUserName>
+    <FromUserName><![CDATA[%s]]></FromUserName>
+    <CreateTime>%s</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[%s]]></Content>
+</xml>";
+        $result = sprintf($xmlTpl, $object->FromUserName, $object->ToUserName, time(), $content);
+
+        return $result;
+    }
+
+   
+
+    
+
+    //回复语音消息
+    private function transmitVoice($object, $voiceArray)
+    {
+        $itemTpl = "<Voice>
+        <MediaId><![CDATA[%s]]></MediaId>
+    </Voice>";
+
+        $item_str = sprintf($itemTpl, $voiceArray['MediaId']);
+        $xmlTpl = "<xml>
+    <ToUserName><![CDATA[%s]]></ToUserName>
+    <FromUserName><![CDATA[%s]]></FromUserName>
+    <CreateTime>%s</CreateTime>
+    <MsgType><![CDATA[voice]]></MsgType>
+    $item_str
+</xml>";
+
+        $result = sprintf($xmlTpl, $object->FromUserName, $object->ToUserName, time());
+        return $result;
+    }
+
+  
+
+    
+
+    //字节转Emoji表情
+    function bytes_to_emoji($cp)
+    {
+        if ($cp > 0x10000){       # 4 bytes
+            return chr(0xF0 | (($cp & 0x1C0000) >> 18)).chr(0x80 | (($cp & 0x3F000) >> 12)).chr(0x80 | (($cp & 0xFC0) >> 6)).chr(0x80 | ($cp & 0x3F));
+        }else if ($cp > 0x800){   # 3 bytes
+            return chr(0xE0 | (($cp & 0xF000) >> 12)).chr(0x80 | (($cp & 0xFC0) >> 6)).chr(0x80 | ($cp & 0x3F));
+        }else if ($cp > 0x80){    # 2 bytes
+            return chr(0xC0 | (($cp & 0x7C0) >> 6)).chr(0x80 | ($cp & 0x3F));
+        }else{                    # 1 byte
+            return chr($cp);
+        }
+    }
+    
+    //天气
+    private function weathernow($n)
+    {
+        $key="1d41d8bd12284505ba5e57da0e4e39bb";
+		$weather1=file_get_contents("https://free-api.heweather.com/v5/weather?city=".$n."&key=".$key);
+			return json_decode($weather1,true);
+     }
+    
+    //高德地图
+    private function GAODE($d)
+    {
+        $key="1fea4c5a813fc050ac0b5f802a8aa441";
+        
+		$distance=file_get_contents("http://restapi.amap.com/v3/distance?key=".$key."&origins=".$d->Location_X.",".$d->Location_Y."&destination=40.0047329613,116.3575870399&type=0");
+			return json_decode($distance,true);
+     }
+     
+    //路况信息
+    private function LUKUANG($road)
+    {
+        $key="1fea4c5a813fc050ac0b5f802a8aa441";
+        $level=5;
+        $situation=file_get_contents("http://restapi.amap.com/v3/traffic/status/road?name=".$road."&city=北京&key=1fea4c5a813fc050ac0b5f802a8aa441&level=".$level);
+		$s=json_decode($situation,true);
+        
+        while($s['status']=='0')
+        {
+            if($level!=1)
+            {
+                $level--;
+                $situation=file_get_contents("http://restapi.amap.com/v3/traffic/status/road?name=".$road."&city=北京&key=1fea4c5a813fc050ac0b5f802a8aa441&level=".$level);
+                $s=json_decode($situation,true);
+                if($s['status']=='0')
+                {
+                    $situation=file_get_contents("http://restapi.amap.com/v3/traffic/status/road?name=".$road."&city=广州&key=1fea4c5a813fc050ac0b5f802a8aa441&level=".$level);
+                    $s=json_decode($situation,true);
+                }
+                 
+            }
+            else
+            {break;}
+         }
+        return $s;
+        
+         
+     }
+    
+    //百度翻译
+    private function translate($str)
+    {
+        $APP_ID="20170224000039823";
+        $key="CuX9TP86dV3Kf5KIivdl";
+        $salt = rand(10000,99999);
+        $sign=md5($APP_ID.$str.$salt.$key);
+        if (preg_match("/([\x81-\xfe][\x40-\xfe])/", $str, $match))
+        {
+        $results=file_get_contents("http://api.fanyi.baidu.com/api/trans/vip/translate?q=".$str."&from=zh&to=en&appid=".$APP_ID."&salt=".$salt."&sign=".$sign);
+        }
+        else
+        {
+        $results=file_get_contents("http://api.fanyi.baidu.com/api/trans/vip/translate?q=".$str."&from=en&to=zh&appid=".$APP_ID."&salt=".$salt."&sign=".$sign);
+        }
+           
+        return json_decode($results,true);
+    }
+    
+
+    //日志记录
+    private function logger($log_content)
+    {
+        if(isset($_SERVER['HTTP_APPNAME']))
+        {   //SAE
+            sae_set_display_errors(false);
+            sae_debug($log_content);
+            sae_set_display_errors(true);
+         }
+        else if($_SERVER['REMOTE_ADDR'] != "127.0.0.1")
+        { //LOCAL
+            $max_size = 1000000;
+            $log_filename = "log.xml";
+            if(file_exists($log_filename) and (abs(filesize($log_filename)) > $max_size))
+            {
+                unlink($log_filename);
+             }
+            file_put_contents($log_filename, date('Y-m-d H:i:s')." ".$log_content."\r\n", FILE_APPEND);
+        }
+    }
+}
+
+
+?>

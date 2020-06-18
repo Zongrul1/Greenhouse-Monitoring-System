@@ -1,0 +1,4355 @@
+2017-04-22 19:37:03 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1492861023</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询]]></Content>
+<MsgId>6411789271681652257</MsgId>
+</xml>
+2017-04-22 19:37:03 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1492861023</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017-03-15 08:57:56
+温度：22
+湿度:24
+二氧化碳浓度:1813
+光照强度:255]]></Content>
+</xml>
+2017-05-05 12:41:41 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1493959301</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询]]></Content>
+<MsgId>6416506339773793796</MsgId>
+</xml>
+2017-05-05 12:41:50 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1493959310</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询]]></Content>
+<MsgId>6416506378428499462</MsgId>
+</xml>
+2017-05-05 12:41:52 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1493959312</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[咁]]></Content>
+<MsgId>6416506387018434056</MsgId>
+</xml>
+2017-05-05 12:41:52 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1493959312</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[无此数据段]]></Content>
+</xml>
+2017-05-05 12:42:45 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1493959365</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询+]]></Content>
+<MsgId>6416506614651700752</MsgId>
+</xml>
+2017-05-05 12:43:09 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1493959389</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询+2017-03-15 08:57:56]]></Content>
+<MsgId>6416506717730915863</MsgId>
+</xml>
+2017-05-05 12:43:48 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1493959427</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询+2017-03-15 08:57:56]]></Content>
+<MsgId>6416506880939673117</MsgId>
+</xml>
+2017-05-05 12:45:01 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1493959501</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询+2017-03-15 08:57:56]]></Content>
+<MsgId>6416507198767253027</MsgId>
+</xml>
+2017-05-05 12:45:36 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1493959536</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询+2017-03-15 08:57:56]]></Content>
+<MsgId>6416507349091108392</MsgId>
+</xml>
+2017-05-05 12:45:36 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1493959536</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017-03-15 08:57:56
+温度：22
+湿度:24
+二氧化碳浓度:1813
+光照强度:255]]></Content>
+</xml>
+2017-05-05 18:36:07 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1493980567</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询+2017-03-15 08:57:55]]></Content>
+<MsgId>6416597676548315098</MsgId>
+</xml>
+2017-05-05 18:36:07 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1493980567</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:
+温度：
+湿度:
+二氧化碳浓度:
+光照强度:]]></Content>
+</xml>
+2017-05-05 18:36:17 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1493980577</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询+2017-03-15 08:57:54]]></Content>
+<MsgId>6416597719497988060</MsgId>
+</xml>
+2017-05-05 18:36:17 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1493980577</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:
+温度：
+湿度:
+二氧化碳浓度:
+光照强度:]]></Content>
+</xml>
+2017-05-08 21:49:06 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLvxvDtIPN0oIvBgvs1VuCzwA]]></FromUserName>
+<CreateTime>1494251347</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-05-09 12:26:15 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1494303975</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询+2017-03-15 08:57:54]]></Content>
+<MsgId>6417986703331634196</MsgId>
+</xml>
+2017-05-09 12:26:15 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1494303975</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:
+温度：
+湿度:
+二氧化碳浓度:
+光照强度:]]></Content>
+</xml>
+2017-05-09 12:28:31 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1494304111</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询+2017-03-15 08:57:54]]></Content>
+<MsgId>6417987287447186480</MsgId>
+</xml>
+2017-05-09 12:28:31 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1494304111</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[提交参数不正确]]></Content>
+</xml>
+2017-05-09 12:28:42 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1494304122</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询+2017-03-15 08:57:56]]></Content>
+<MsgId>6417987334691826741</MsgId>
+</xml>
+2017-05-09 12:28:42 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1494304122</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017-03-15 08:57:56
+温度：22
+湿度:24
+二氧化碳浓度:1813
+光照强度:255]]></Content>
+</xml>
+2017-05-09 12:58:56 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv2Oe_0l4qj08w8Q8QzJ7HIA]]></FromUserName>
+<CreateTime>1494305937</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-05-09 12:59:00 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv1z3gC2qKl95_p9OwqMbPAQ]]></FromUserName>
+<CreateTime>1494305941</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-05-09 12:59:05 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv98_rPjQWwgEW2lLrHB9oVg]]></FromUserName>
+<CreateTime>1494305945</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-05-09 12:59:26 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv8GFGbFB9BLg5YL73h-SFEk]]></FromUserName>
+<CreateTime>1494305966</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-05-09 12:59:44 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv2Oe_0l4qj08w8Q8QzJ7HIA]]></FromUserName>
+<CreateTime>1494305984</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询+2017-03-15 08:57:56]]></Content>
+<MsgId>6417995331920932269</MsgId>
+</xml>
+2017-05-09 12:59:44 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv2Oe_0l4qj08w8Q8QzJ7HIA]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1494305984</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017-03-15 08:57:56
+温度：22
+湿度:24
+二氧化碳浓度:1813
+光照强度:255]]></Content>
+</xml>
+2017-05-09 12:59:45 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv1z3gC2qKl95_p9OwqMbPAQ]]></FromUserName>
+<CreateTime>1494305985</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询+2017-03-15 08:57:56]]></Content>
+<MsgId>6417995336215899568</MsgId>
+</xml>
+2017-05-09 12:59:45 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv1z3gC2qKl95_p9OwqMbPAQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1494305985</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017-03-15 08:57:56
+温度：22
+湿度:24
+二氧化碳浓度:1813
+光照强度:255]]></Content>
+</xml>
+2017-05-09 12:59:46 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv976WOYBfd2iPu9yz-eD9qc]]></FromUserName>
+<CreateTime>1494305986</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-05-09 13:00:08 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv98_rPjQWwgEW2lLrHB9oVg]]></FromUserName>
+<CreateTime>1494306008</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询+2017-03-15 08:57:56]]></Content>
+<MsgId>6417995435000147386</MsgId>
+</xml>
+2017-05-09 13:00:08 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv98_rPjQWwgEW2lLrHB9oVg]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1494306008</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017-03-15 08:57:56
+温度：22
+湿度:24
+二氧化碳浓度:1813
+光照强度:255]]></Content>
+</xml>
+2017-05-09 13:00:12 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv8GFGbFB9BLg5YL73h-SFEk]]></FromUserName>
+<CreateTime>1494306012</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询+2017-03-15 08:57:56]]></Content>
+<MsgId>6417995452180016572</MsgId>
+</xml>
+2017-05-09 13:00:12 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv8GFGbFB9BLg5YL73h-SFEk]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1494306012</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017-03-15 08:57:56
+温度：22
+湿度:24
+二氧化碳浓度:1813
+光照强度:255]]></Content>
+</xml>
+2017-05-09 13:00:14 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv1z3gC2qKl95_p9OwqMbPAQ]]></FromUserName>
+<CreateTime>1494306014</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询+2017-03-15 08:57:57]]></Content>
+<MsgId>6417995460769951166</MsgId>
+</xml>
+2017-05-09 13:00:14 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv1z3gC2qKl95_p9OwqMbPAQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1494306014</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[提交参数不正确]]></Content>
+</xml>
+2017-05-09 13:16:58 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv6amE1GEw9N7e4nfE16sQg4]]></FromUserName>
+<CreateTime>1494307018</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-05-09 13:17:08 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv6amE1GEw9N7e4nfE16sQg4]]></FromUserName>
+<CreateTime>1494307028</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[2017-04-10]]></Content>
+<MsgId>6417999815866789549</MsgId>
+</xml>
+2017-05-09 13:17:08 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv6amE1GEw9N7e4nfE16sQg4]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1494307028</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[]]></Content>
+</xml>
+2017-05-14 23:46:58 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1494776817</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-05-14 23:47:09 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1494776829</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-05-14 23:47:49 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1494776869</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[f]]></Content>
+<MsgId>6420017767596195138</MsgId>
+</xml>
+2017-05-14 23:47:49 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1494776869</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[提交参数不正确]]></Content>
+</xml>
+2017-05-28 21:36:06 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv4jA2Rdc5xfFLfKvk8Cg89Y]]></FromUserName>
+<CreateTime>1495978566</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-06-02 19:40:08 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1496403608</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询温室+2017-03-15]]></Content>
+<MsgId>6427004558400591926</MsgId>
+</xml>
+2017-06-02 19:40:08 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1496403608</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017-03-15 08:28:17
+温度：21
+湿度:23
+二氧化碳浓度:3198
+光照强度:242]]></Content>
+</xml>
+2017-06-02 19:41:16 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1496403676</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-06-02 19:41:16 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1496403676</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[]]></Content>
+</xml>
+2017-06-02 19:41:58 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1496403719</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-06-02 19:41:58 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1496403718</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[]]></Content>
+</xml>
+2017-06-02 19:42:03 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1496403723</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[v]]></Content>
+<MsgId>6427005052321831006</MsgId>
+</xml>
+2017-06-02 19:42:03 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1496403723</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[提交参数不正确，回复 查询温室+日期 查询参数]]></Content>
+</xml>
+2017-06-02 19:55:20 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1496404520</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询温室+2017-3-15]]></Content>
+<MsgId>6427008475410766024</MsgId>
+</xml>
+2017-06-02 19:55:20 T 
+
+2017-06-02 19:55:45 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1496404545</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询温室+2017-03-15]]></Content>
+<MsgId>6427008582784948438</MsgId>
+</xml>
+2017-06-02 19:55:45 T 
+
+2017-06-02 19:55:53 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1496404553</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-06-02 19:55:53 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1496404553</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[]]></Content>
+</xml>
+2017-06-02 19:56:22 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1496404582</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-06-02 19:56:22 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1496404582</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[]]></Content>
+</xml>
+2017-06-02 19:56:28 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1496404588</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[[Concerned]]]></Content>
+<MsgId>6427008767468542176</MsgId>
+</xml>
+2017-06-02 19:56:28 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1496404588</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[提交参数不正确，回复 查询温室+日期 查询参数]]></Content>
+</xml>
+2017-06-02 19:57:35 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1496404655</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询温室]]></Content>
+<MsgId>6427009055231351015</MsgId>
+</xml>
+2017-06-02 19:57:35 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1496404655</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017-03-15 08:28:17
+温度：21
+湿度:23
+二氧化碳浓度:3198
+光照强度:242]]></Content>
+</xml>
+2017-06-02 19:57:49 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1496404669</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询温室+2017-03-15]]></Content>
+<MsgId>6427009115360893162</MsgId>
+</xml>
+2017-06-02 19:57:49 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1496404669</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017-03-15 08:28:17
+温度：21
+湿度:23
+二氧化碳浓度:3198
+光照强度:242]]></Content>
+</xml>
+2017-06-02 19:58:57 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1496404736</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[g]]></Content>
+<MsgId>6427009403123702003</MsgId>
+</xml>
+2017-06-02 19:58:57 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1496404737</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[提交参数不正确，回复 查询温室+日期 查询参数]]></Content>
+</xml>
+2017-06-02 19:59:01 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1496404741</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询温室+2017-03-15]]></Content>
+<MsgId>6427009424598538485</MsgId>
+</xml>
+2017-06-02 19:59:01 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1496404741</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017-03-15 08:28:17
+温度：21
+湿度:23
+二氧化碳浓度:3198
+光照强度:242]]></Content>
+</xml>
+2017-06-02 20:07:15 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLvy1CDi8w_zFQA6_WtAIVBhE]]></FromUserName>
+<CreateTime>1496405235</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-06-02 20:07:15 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLvy1CDi8w_zFQA6_WtAIVBhE]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1496405235</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[]]></Content>
+</xml>
+2017-06-02 20:08:13 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLvy1CDi8w_zFQA6_WtAIVBhE]]></FromUserName>
+<CreateTime>1496405293</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-06-02 20:08:13 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLvy1CDi8w_zFQA6_WtAIVBhE]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1496405293</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注水培生菜日光温室管理系统 回复 查询温室+日期 查询参数]]></Content>
+</xml>
+2017-07-15 15:01:45 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLvy5lfvOs4jGiYXBuavLIwY8]]></FromUserName>
+<CreateTime>1500102103</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-07-15 15:01:45 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLvy5lfvOs4jGiYXBuavLIwY8]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1500102105</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注水培生菜日光温室管理系统 回复 查询温室+日期 查询参数]]></Content>
+</xml>
+2017-07-26 14:18:28 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7zjX-F_eWrZX359Ce-s2W4]]></FromUserName>
+<CreateTime>1501049908</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-07-26 14:18:28 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7zjX-F_eWrZX359Ce-s2W4]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1501049908</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注水培生菜日光温室管理系统 回复 查询温室+日期 查询参数]]></Content>
+</xml>
+2017-08-13 23:22:32 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv--Nrsg7O9Ijz2plMDXHFfw]]></FromUserName>
+<CreateTime>1502637753</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-08-13 23:22:32 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv--Nrsg7O9Ijz2plMDXHFfw]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1502637752</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注水培生菜日光温室管理系统 回复 查询温室+日期 查询参数]]></Content>
+</xml>
+2017-08-13 23:22:57 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv--Nrsg7O9Ijz2plMDXHFfw]]></FromUserName>
+<CreateTime>1502637777</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-08-13 23:22:57 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv--Nrsg7O9Ijz2plMDXHFfw]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1502637777</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[]]></Content>
+</xml>
+2017-08-20 17:37:08 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv98_rPjQWwgEW2lLrHB9oVg]]></FromUserName>
+<CreateTime>1503221828</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-08-20 17:37:08 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv98_rPjQWwgEW2lLrHB9oVg]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1503221828</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[]]></Content>
+</xml>
+2017-09-07 20:17:10 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv976WOYBfd2iPu9yz-eD9qc]]></FromUserName>
+<CreateTime>1504786629</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-09-07 20:17:10 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv976WOYBfd2iPu9yz-eD9qc]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1504786630</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[]]></Content>
+</xml>
+2017-10-16 00:46:53 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv8GFGbFB9BLg5YL73h-SFEk]]></FromUserName>
+<CreateTime>1508086011</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询+2017-03-15 08:57:56]]></Content>
+<MsgId>6477180097226158564</MsgId>
+</xml>
+2017-10-16 00:46:53 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv8GFGbFB9BLg5YL73h-SFEk]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1508086013</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[提交参数不正确，回复 查询温室+日期 查询参数]]></Content>
+</xml>
+2017-10-16 21:12:22 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1508159541</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ 查询]]></Content>
+<MsgId>6477495906171443489</MsgId>
+</xml>
+2017-10-16 21:12:22 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1508159542</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[提交参数不正确，回复 查询温室+日期 查询参数]]></Content>
+</xml>
+2017-10-16 21:12:43 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1508159563</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询温室+2017]]></Content>
+<MsgId>6477496000660724008</MsgId>
+</xml>
+2017-10-16 21:12:44 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1508159564</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017-03-15 08:28:17
+温度：21
+湿度:23
+二氧化碳浓度:3198
+光照强度:242]]></Content>
+</xml>
+2017-10-16 21:13:04 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1508159584</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询温室+2017-03-15]]></Content>
+<MsgId>6477496090855037226</MsgId>
+</xml>
+2017-10-16 21:13:04 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1508159584</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017-03-15 08:28:17
+温度：21
+湿度:23
+二氧化碳浓度:3198
+光照强度:242]]></Content>
+</xml>
+2017-10-25 21:11:53 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv5cim8R4F-klv9klHXEegQ0]]></FromUserName>
+<CreateTime>1508937112</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-10-25 21:11:53 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv5cim8R4F-klv9klHXEegQ0]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1508937113</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注水培生菜日光温室管理系统 回复 查询温室+日期 查询参数]]></Content>
+</xml>
+2017-10-25 21:12:00 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv5cim8R4F-klv9klHXEegQ0]]></FromUserName>
+<CreateTime>1508937119</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[大家好]]></Content>
+<MsgId>6480835578251671385</MsgId>
+</xml>
+2017-10-25 21:12:00 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv5cim8R4F-klv9klHXEegQ0]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1508937120</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[提交参数不正确，回复 查询温室+日期 查询参数]]></Content>
+</xml>
+2017-10-31 10:53:12 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1509418391</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询]]></Content>
+<MsgId>6482902625752213291</MsgId>
+</xml>
+2017-10-31 10:53:12 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1509418392</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[提交参数不正确，回复 查询温室+日期 查询参数]]></Content>
+</xml>
+2017-10-31 10:55:16 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1509418516</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询温室+2017-03-14]]></Content>
+<MsgId>6482903162623125330</MsgId>
+</xml>
+2017-10-31 10:55:16 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1509418516</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017-03-14 08:28:21
+温度：21
+湿度:22
+二氧化碳浓度:2894
+光照强度:240]]></Content>
+</xml>
+2017-10-31 10:55:21 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1509418520</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询温室+2017-03-13]]></Content>
+<MsgId>6482903179802994515</MsgId>
+</xml>
+2017-10-31 10:55:21 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1509418521</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017-03-13 08:28:17
+温度：21
+湿度:23
+二氧化碳浓度:3198
+光照强度:242]]></Content>
+</xml>
+2017-10-31 10:55:58 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1509418558</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询温室+2017-03-15]]></Content>
+<MsgId>6482903343011751773</MsgId>
+</xml>
+2017-10-31 10:55:58 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1509418558</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017-03-15 08:28:25
+温度：21
+湿度:22
+二氧化碳浓度:3198
+光照强度:239]]></Content>
+</xml>
+2017-10-31 11:04:23 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1509419063</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询温室+2017-03-15]]></Content>
+<MsgId>6482905511970236425</MsgId>
+</xml>
+2017-10-31 11:04:23 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1509419063</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017-03-15 08:28:25
+温度：21
+湿度:22
+二氧化碳浓度:3198
+光照强度:239]]></Content>
+</xml>
+2017-10-31 11:14:31 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1509419671</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询温室+2017-03-15]]></Content>
+<MsgId>6482908123310352558</MsgId>
+</xml>
+2017-10-31 11:14:34 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1509419673</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[0]]></Content>
+<MsgId>6482908131900287153</MsgId>
+</xml>
+2017-10-31 11:14:34 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1509419674</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[提交参数不正确，回复 查询温室+日期 查询参数]]></Content>
+</xml>
+2017-10-31 11:15:58 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1509419758</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询温室+2017-03-15]]></Content>
+<MsgId>6482908496972507343</MsgId>
+</xml>
+2017-10-31 11:15:59 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1509419759</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017-03-15 08:57:56
+温度：22
+湿度:24
+二氧化碳浓度:1813
+光照强度:255]]></Content>
+</xml>
+2017-11-12 13:10:53 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510463453</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询温度]]></Content>
+<MsgId>6487391132864683850</MsgId>
+</xml>
+2017-11-12 13:10:53 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510463453</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[查询温度请输入“温度+日期”，如“温度+20170315” ]]></Content>
+</xml>
+2017-11-12 13:11:02 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510463462</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[温度+20170315]]></Content>
+<MsgId>6487391171519389516</MsgId>
+</xml>
+2017-11-12 13:11:02 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510463462</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[提交参数不正确，无此日期]]></Content>
+</xml>
+2017-11-12 13:12:37 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510463556</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[温度+2017]]></Content>
+<MsgId>6487391575246315345</MsgId>
+</xml>
+2017-11-12 13:12:37 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510463557</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017-03-15 08:57:56
+温度：22
+]]></Content>
+</xml>
+2017-11-12 13:17:08 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510463828</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[g]]></Content>
+<MsgId>6487392743477419889</MsgId>
+</xml>
+2017-11-12 13:17:08 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510463828</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[提交参数不正确，回复 查询温室+日期 查询参数]]></Content>
+</xml>
+2017-11-12 13:17:37 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510463856</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询温度]]></Content>
+<MsgId>6487392863736504185</MsgId>
+</xml>
+2017-11-12 13:17:37 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510463857</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[提交参数不正确，回复 查询温室+日期 查询参数]]></Content>
+</xml>
+2017-11-12 13:18:26 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510463906</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询温度]]></Content>
+<MsgId>6487393078484868988</MsgId>
+</xml>
+2017-11-12 13:18:26 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510463906</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[查询温度请输入“温度+日期”，如“温度+2017-03-15” ]]></Content>
+</xml>
+2017-11-12 13:34:08 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510464848</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[0]]></Content>
+<MsgId>6487397124344061968</MsgId>
+</xml>
+2017-11-12 13:34:08 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510464848</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度度”进行光照强度查询
+]]></Content>
+</xml>
+2017-11-12 13:34:27 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510464867</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询光照强度]]></Content>
+<MsgId>6487397205948440597</MsgId>
+</xml>
+2017-11-12 13:34:27 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510464867</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[查询光照强度请输入“光照强度+日期”，如“光照强度+2017-03-15” ]]></Content>
+</xml>
+2017-11-12 13:34:47 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510464887</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[光照强度+2017-03-15]]></Content>
+<MsgId>6487397291847786521</MsgId>
+</xml>
+2017-11-12 13:34:47 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510464887</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017-03-15 08:57:56
+光照强度:255]]></Content>
+</xml>
+2017-11-12 13:38:03 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510465083</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-11-12 13:38:03 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510465083</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[]]></Content>
+</xml>
+2017-11-12 13:38:07 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510465087</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-11-12 13:38:07 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510465087</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注水培生菜环境监测系统
+本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度”进行光照强度查询
+]]></Content>
+</xml>
+2017-11-12 13:38:18 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510465098</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[0]]></Content>
+<MsgId>6487398198085886044</MsgId>
+</xml>
+2017-11-12 13:38:18 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510465098</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度”进行光照强度查询
+]]></Content>
+</xml>
+2017-11-12 13:38:21 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510465101</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[t]]></Content>
+<MsgId>6487398210970787935</MsgId>
+</xml>
+2017-11-12 13:38:21 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510465101</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度”进行光照强度查询
+]]></Content>
+</xml>
+2017-11-12 13:38:29 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510465109</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询二氧化碳浓度]]></Content>
+<MsgId>6487398245330526305</MsgId>
+</xml>
+2017-11-12 13:38:29 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510465109</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[查询二氧化碳浓度请输入“二氧化碳浓度+日期”，如“二氧化碳浓度+2017-03-15” ]]></Content>
+</xml>
+2017-11-12 13:44:47 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510465487</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[天气]]></Content>
+<MsgId>6487399868828164233</MsgId>
+</xml>
+2017-11-12 13:44:47 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510465487</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度”进行光照强度查询
+]]></Content>
+</xml>
+2017-11-12 13:46:05 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510465565</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[广州天气]]></Content>
+<MsgId>6487400203835613333</MsgId>
+</xml>
+2017-11-12 13:46:12 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510465572</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ 北京天气]]></Content>
+<MsgId>6487400233900384407</MsgId>
+</xml>
+2017-11-12 13:46:52 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510465612</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[天气广州]]></Content>
+<MsgId>6487400405699076252</MsgId>
+</xml>
+2017-11-12 13:46:52 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510465612</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度”进行光照强度查询
+]]></Content>
+</xml>
+2017-11-12 13:47:00 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510465620</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[天气北京]]></Content>
+<MsgId>6487400440058814622</MsgId>
+</xml>
+2017-11-12 13:47:00 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510465620</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度”进行光照强度查询
+]]></Content>
+</xml>
+2017-11-12 13:48:19 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510465699</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ 广州天气]]></Content>
+<MsgId>6487400779361231017</MsgId>
+</xml>
+2017-11-12 13:48:22 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510465702</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[天气]]></Content>
+<MsgId>6487400792246132906</MsgId>
+</xml>
+2017-11-12 13:48:22 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510465702</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度”进行光照强度查询
+]]></Content>
+</xml>
+2017-11-12 13:48:24 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510465699</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ 广州天气]]></Content>
+<MsgId>6487400779361231017</MsgId>
+</xml>
+2017-11-12 13:48:25 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510465705</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[  【广州】实时天气
+体感温度 29℃  多云
+相对湿度 62%
+空气质量 良]]></Content>
+</xml>
+2017-11-12 13:48:27 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510465706</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[天气广州]]></Content>
+<MsgId>6487400809426002092</MsgId>
+</xml>
+2017-11-12 13:48:27 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510465707</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度”进行光照强度查询
+]]></Content>
+</xml>
+2017-11-12 13:48:28 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510465708</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[  【广州】实时天气
+体感温度 29℃  多云
+相对湿度 62%
+空气质量 良]]></Content>
+</xml>
+2017-11-12 13:48:36 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510465716</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[天气广州]]></Content>
+<MsgId>6487400852375675061</MsgId>
+</xml>
+2017-11-12 13:48:36 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510465716</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度”进行光照强度查询
+]]></Content>
+</xml>
+2017-11-12 13:48:42 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510465722</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[广州天气]]></Content>
+<MsgId>6487400878145478839</MsgId>
+</xml>
+2017-11-12 13:48:42 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510465722</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[  【广州】实时天气
+体感温度 29℃  多云
+相对湿度 62%
+空气质量 良]]></Content>
+</xml>
+2017-11-12 13:49:32 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510465772</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[北京天气]]></Content>
+<MsgId>6487401092893843652</MsgId>
+</xml>
+2017-11-12 13:49:33 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510465773</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[  【北京】实时天气
+体感温度 10℃  晴
+相对湿度 28%
+空气质量 良]]></Content>
+</xml>
+2017-11-12 13:54:20 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510466060</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[定位]]></Content>
+<MsgId>6487402329844424926</MsgId>
+</xml>
+2017-11-12 13:54:20 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510466060</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[   ★你的位置★
+经度为：
+纬度为：
+位置为：
+你距离中国农业大学东校区还有
+米]]></Content>
+</xml>
+2017-11-12 13:55:23 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510466123</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-11-12 13:55:23 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510466123</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[]]></Content>
+</xml>
+2017-11-12 13:55:26 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510466127</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-11-12 13:55:26 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510466126</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度”进行光照强度查询
+5.回复“城市天气”进行天气查询（如：北京天气）]]></Content>
+</xml>
+2017-11-12 13:56:31 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510466191</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-11-12 13:56:31 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510466191</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[]]></Content>
+</xml>
+2017-11-12 13:56:37 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510466198</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-11-12 13:56:37 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510466197</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注水培生菜环境监测系统
+本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度”进行光照强度查询
+5.回复“城市天气”进行天气查询（如：北京天气）]]></Content>
+</xml>
+2017-11-12 13:56:50 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1510466210</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[北京天气]]></Content>
+<MsgId>6487402974089519345</MsgId>
+</xml>
+2017-11-12 13:56:52 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510466212</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[  【北京】实时天气
+体感温度 9℃  晴
+相对湿度 30%
+空气质量 良]]></Content>
+</xml>
+2017-11-13 13:37:46 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv6amE1GEw9N7e4nfE16sQg4]]></FromUserName>
+<CreateTime>1510551465</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询]]></Content>
+<MsgId>6487769141526348214</MsgId>
+</xml>
+2017-11-13 13:37:46 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv6amE1GEw9N7e4nfE16sQg4]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510551466</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度”进行光照强度查询
+5.回复“城市天气”进行天气查询（如：北京天气）]]></Content>
+</xml>
+2017-11-13 13:37:56 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv6amE1GEw9N7e4nfE16sQg4]]></FromUserName>
+<CreateTime>1510551475</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询温度]]></Content>
+<MsgId>6487769184476021177</MsgId>
+</xml>
+2017-11-13 13:37:56 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv6amE1GEw9N7e4nfE16sQg4]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510551476</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[查询温度请输入“温度+日期”，如“温度+2017-03-15” ]]></Content>
+</xml>
+2017-11-13 13:38:26 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv6amE1GEw9N7e4nfE16sQg4]]></FromUserName>
+<CreateTime>1510551506</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[温度+2017-03-15]]></Content>
+<MsgId>6487769317620007360</MsgId>
+</xml>
+2017-11-13 13:38:26 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv6amE1GEw9N7e4nfE16sQg4]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510551506</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017-03-15 08:57:56
+温度：22
+]]></Content>
+</xml>
+2017-11-13 13:38:37 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv6amE1GEw9N7e4nfE16sQg4]]></FromUserName>
+<CreateTime>1510551517</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[温度+2017-09-15]]></Content>
+<MsgId>6487769364864647620</MsgId>
+</xml>
+2017-11-13 13:38:37 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv6amE1GEw9N7e4nfE16sQg4]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510551517</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[提交参数不正确，无此日期]]></Content>
+</xml>
+2017-11-13 13:38:43 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv6amE1GEw9N7e4nfE16sQg4]]></FromUserName>
+<CreateTime>1510551523</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[温度+2017-03-22]]></Content>
+<MsgId>6487769390634451404</MsgId>
+</xml>
+2017-11-13 13:38:44 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv6amE1GEw9N7e4nfE16sQg4]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510551524</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[提交参数不正确，无此日期]]></Content>
+</xml>
+2017-11-13 13:38:52 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv6amE1GEw9N7e4nfE16sQg4]]></FromUserName>
+<CreateTime>1510551532</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[温度+2017-03-14]]></Content>
+<MsgId>6487769429289157075</MsgId>
+</xml>
+2017-11-13 13:38:52 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv6amE1GEw9N7e4nfE16sQg4]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510551532</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017-03-14 08:28:21
+温度：21
+]]></Content>
+</xml>
+2017-11-13 13:39:01 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv6amE1GEw9N7e4nfE16sQg4]]></FromUserName>
+<CreateTime>1510551541</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[温度+2017-03-23]]></Content>
+<MsgId>6487769467943862744</MsgId>
+</xml>
+2017-11-13 13:39:01 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv6amE1GEw9N7e4nfE16sQg4]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510551541</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[提交参数不正确，无此日期]]></Content>
+</xml>
+2017-11-13 14:13:31 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv976WOYBfd2iPu9yz-eD9qc]]></FromUserName>
+<CreateTime>1510553611</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+2017-11-13 14:13:31 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv976WOYBfd2iPu9yz-eD9qc]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510553611</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注水培生菜环境监测系统
+本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度”进行光照强度查询
+5.回复“城市天气”进行天气查询（如：北京天气）]]></Content>
+</xml>
+2017-11-13 14:13:36 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv976WOYBfd2iPu9yz-eD9qc]]></FromUserName>
+<CreateTime>1510553616</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[1]]></Content>
+<MsgId>6487778380001002238</MsgId>
+</xml>
+2017-11-13 14:13:36 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv976WOYBfd2iPu9yz-eD9qc]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510553616</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度”进行光照强度查询
+5.回复“城市天气”进行天气查询（如：北京天气）]]></Content>
+</xml>
+2017-11-13 14:15:16 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv8GFGbFB9BLg5YL73h-SFEk]]></FromUserName>
+<CreateTime>1510553716</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询+2017-03-15 08:57:56]]></Content>
+<MsgId>6487778809497731848</MsgId>
+</xml>
+2017-11-13 14:15:16 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv8GFGbFB9BLg5YL73h-SFEk]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510553716</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度”进行光照强度查询
+5.回复“城市天气”进行天气查询（如：北京天气）]]></Content>
+</xml>
+2017-11-13 14:38:15 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv2Oe_0l4qj08w8Q8QzJ7HIA]]></FromUserName>
+<CreateTime>1510555094</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你说啥]]></Content>
+<MsgId>6487784727962665901</MsgId>
+</xml>
+2017-11-13 14:38:15 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv2Oe_0l4qj08w8Q8QzJ7HIA]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510555095</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度”进行光照强度查询
+5.回复“城市天气”进行天气查询（如：北京天气）]]></Content>
+</xml>
+2017-11-13 14:38:22 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv2Oe_0l4qj08w8Q8QzJ7HIA]]></FromUserName>
+<CreateTime>1510555102</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好啊 ]]></Content>
+<MsgId>6487784762322404271</MsgId>
+</xml>
+2017-11-13 14:38:22 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv2Oe_0l4qj08w8Q8QzJ7HIA]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510555102</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度”进行光照强度查询
+5.回复“城市天气”进行天气查询（如：北京天气）]]></Content>
+</xml>
+2017-11-13 14:38:26 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv2Oe_0l4qj08w8Q8QzJ7HIA]]></FromUserName>
+<CreateTime>1510555106</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[2]]></Content>
+<MsgId>6487784779502273459</MsgId>
+</xml>
+2017-11-13 14:38:26 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv2Oe_0l4qj08w8Q8QzJ7HIA]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510555106</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度”进行光照强度查询
+5.回复“城市天气”进行天气查询（如：北京天气）]]></Content>
+</xml>
+2017-11-13 14:38:34 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv2Oe_0l4qj08w8Q8QzJ7HIA]]></FromUserName>
+<CreateTime>1510555114</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询湿度 ]]></Content>
+<MsgId>6487784813862011831</MsgId>
+</xml>
+2017-11-13 14:38:34 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv2Oe_0l4qj08w8Q8QzJ7HIA]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510555114</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[查询湿度请输入“湿度+日期”，如“湿度+2017-03-15” ]]></Content>
+</xml>
+2017-11-13 14:39:02 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv2Oe_0l4qj08w8Q8QzJ7HIA]]></FromUserName>
+<CreateTime>1510555142</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[湿度+2017-05-15]]></Content>
+<MsgId>6487784934121096127</MsgId>
+</xml>
+2017-11-13 14:39:02 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv2Oe_0l4qj08w8Q8QzJ7HIA]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510555142</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[提交参数不正确，无此日期]]></Content>
+</xml>
+2017-11-13 14:39:20 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv2Oe_0l4qj08w8Q8QzJ7HIA]]></FromUserName>
+<CreateTime>1510555160</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[湿度+2017-3-15]]></Content>
+<MsgId>6487785011430507457</MsgId>
+</xml>
+2017-11-13 14:39:20 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv2Oe_0l4qj08w8Q8QzJ7HIA]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510555160</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[提交参数不正确，无此日期]]></Content>
+</xml>
+2017-11-13 14:39:31 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv2Oe_0l4qj08w8Q8QzJ7HIA]]></FromUserName>
+<CreateTime>1510555171</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[湿度+2017-03-15]]></Content>
+<MsgId>6487785058675147717</MsgId>
+</xml>
+2017-11-13 14:39:31 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv2Oe_0l4qj08w8Q8QzJ7HIA]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510555171</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017-03-15 08:57:56
+湿度:24
+]]></Content>
+</xml>
+2017-11-13 22:30:00 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv1z3gC2qKl95_p9OwqMbPAQ]]></FromUserName>
+<CreateTime>1510583399</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[时间]]></Content>
+<MsgId>6487906297011984350</MsgId>
+</xml>
+2017-11-13 22:30:00 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv1z3gC2qKl95_p9OwqMbPAQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510583400</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度”进行光照强度查询
+5.回复“城市天气”进行天气查询（如：北京天气）]]></Content>
+</xml>
+2017-11-13 22:30:21 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv1z3gC2qKl95_p9OwqMbPAQ]]></FromUserName>
+<CreateTime>1510583420</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询温度]]></Content>
+<MsgId>6487906387206297568</MsgId>
+</xml>
+2017-11-13 22:30:21 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv1z3gC2qKl95_p9OwqMbPAQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510583421</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[查询温度请输入“温度+日期”，如“温度+2017-03-15” ]]></Content>
+</xml>
+2017-11-13 22:30:53 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv1z3gC2qKl95_p9OwqMbPAQ]]></FromUserName>
+<CreateTime>1510583453</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[温度+2017-03-15]]></Content>
+<MsgId>6487906528940218340</MsgId>
+</xml>
+2017-11-13 22:30:53 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv1z3gC2qKl95_p9OwqMbPAQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510583453</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017-03-15 08:57:56
+温度：22
+]]></Content>
+</xml>
+2017-11-14 12:55:12 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv976WOYBfd2iPu9yz-eD9qc]]></FromUserName>
+<CreateTime>1510635311</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[1]]></Content>
+<MsgId>6488129257354259001</MsgId>
+</xml>
+2017-11-14 12:55:12 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv976WOYBfd2iPu9yz-eD9qc]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510635312</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度”进行光照强度查询
+5.回复“城市天气”进行天气查询（如：北京天气）]]></Content>
+</xml>
+2017-11-14 12:55:17 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv976WOYBfd2iPu9yz-eD9qc]]></FromUserName>
+<CreateTime>1510635317</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[1]]></Content>
+<MsgId>6488129283124062779</MsgId>
+</xml>
+2017-11-14 12:55:17 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv976WOYBfd2iPu9yz-eD9qc]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510635317</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度”进行光照强度查询
+5.回复“城市天气”进行天气查询（如：北京天气）]]></Content>
+</xml>
+2017-11-14 12:55:20 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv976WOYBfd2iPu9yz-eD9qc]]></FromUserName>
+<CreateTime>1510635319</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[2]]></Content>
+<MsgId>6488129291713997373</MsgId>
+</xml>
+2017-11-14 12:55:20 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv976WOYBfd2iPu9yz-eD9qc]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510635320</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度”进行光照强度查询
+5.回复“城市天气”进行天气查询（如：北京天气）]]></Content>
+</xml>
+2017-11-14 12:55:23 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv976WOYBfd2iPu9yz-eD9qc]]></FromUserName>
+<CreateTime>1510635322</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[5]]></Content>
+<MsgId>6488129304598899263</MsgId>
+</xml>
+2017-11-14 12:55:23 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv976WOYBfd2iPu9yz-eD9qc]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510635323</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度”进行光照强度查询
+5.回复“城市天气”进行天气查询（如：北京天气）]]></Content>
+</xml>
+2017-11-14 12:55:28 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv976WOYBfd2iPu9yz-eD9qc]]></FromUserName>
+<CreateTime>1510635328</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询温度]]></Content>
+<MsgId>6488129330368703041</MsgId>
+</xml>
+2017-11-14 12:55:28 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv976WOYBfd2iPu9yz-eD9qc]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510635328</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[查询温度请输入“温度+日期”，如“温度+2017-03-15” ]]></Content>
+</xml>
+2017-11-14 12:55:55 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv976WOYBfd2iPu9yz-eD9qc]]></FromUserName>
+<CreateTime>1510635354</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[温度+2017-09-16]]></Content>
+<MsgId>6488129442037852744</MsgId>
+</xml>
+2017-11-14 12:55:55 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv976WOYBfd2iPu9yz-eD9qc]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1510635355</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[提交参数不正确，无此日期]]></Content>
+</xml>
+2017-12-01 14:52:37 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512111157</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[数据+2017]]></Content>
+<MsgId>6494467967658441603</MsgId>
+</xml>
+2017-12-01 14:52:37 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512111157</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:20171201
+数据：12
+]]></Content>
+</xml>
+2017-12-01 14:52:51 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512111171</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ 数据+20170101]]></Content>
+<MsgId>6494468027787983750</MsgId>
+</xml>
+2017-12-01 14:52:51 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512111171</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:20170101
+数据：15
+]]></Content>
+</xml>
+2017-12-01 14:53:03 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512111183</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[数据+201708]]></Content>
+<MsgId>6494468079327591305</MsgId>
+</xml>
+2017-12-01 14:53:03 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512111183</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:20170808
+数据：34
+]]></Content>
+</xml>
+2017-12-01 15:10:24 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512112224</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ 数据+2017]]></Content>
+<MsgId>6494472550388546722</MsgId>
+</xml>
+2017-12-01 15:10:39 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512112238</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ 北京天气]]></Content>
+<MsgId>6494472610518088870</MsgId>
+</xml>
+2017-12-01 15:10:44 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512112238</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ 北京天气]]></Content>
+<MsgId>6494472610518088870</MsgId>
+</xml>
+2017-12-01 15:25:02 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512113102</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[数据+2017]]></Content>
+<MsgId>6494476321369832864</MsgId>
+</xml>
+2017-12-01 15:25:02 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512113102</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[提交参数不正确，无此日期]]></Content>
+</xml>
+2017-12-01 15:32:37 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512113556</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[数据+2017]]></Content>
+<MsgId>6494478271284985316</MsgId>
+</xml>
+2017-12-01 15:32:37 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512113557</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[提交参数不正确，无此日期]]></Content>
+</xml>
+2017-12-01 15:32:58 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512113578</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[数据+2017]]></Content>
+<MsgId>6494478365774265831</MsgId>
+</xml>
+2017-12-01 15:32:58 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512113578</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[Array]]></Content>
+</xml>
+2017-12-01 15:35:28 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512113728</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ 数据+2017]]></Content>
+<MsgId>6494479010019360278</MsgId>
+</xml>
+2017-12-01 15:35:28 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512113728</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:20170101
+数据：15
+]]></Content>
+</xml>
+2017-12-01 15:35:48 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512113748</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[数据+201708]]></Content>
+<MsgId>6494479095918706202</MsgId>
+</xml>
+2017-12-01 15:35:48 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512113748</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:20170808
+数据：34
+]]></Content>
+</xml>
+2017-12-01 15:35:59 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512113759</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[数据+20170102]]></Content>
+<MsgId>6494479143163346461</MsgId>
+</xml>
+2017-12-01 15:35:59 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512113759</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[提交参数不正确，无此日期]]></Content>
+</xml>
+2017-12-01 15:37:53 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512113873</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[数据+201708]]></Content>
+<MsgId>6494479632789618238</MsgId>
+</xml>
+2017-12-01 15:37:53 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512113873</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:20170808
+数据：34
+]]></Content>
+</xml>
+2017-12-01 15:38:00 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512113880</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ 数据+2017]]></Content>
+<MsgId>6494479662854389312</MsgId>
+</xml>
+2017-12-01 15:38:00 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512113880</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:20170101
+数据：15
+]]></Content>
+</xml>
+2017-12-01 15:38:41 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512113921</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ 数据+2017]]></Content>
+<MsgId>6494479838948048470</MsgId>
+</xml>
+2017-12-01 15:38:41 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512113921</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:20170101
+数据：15
+]]></Content>
+</xml>
+2017-12-01 15:39:36 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512113976</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ 数据+2017]]></Content>
+<MsgId>6494480075171249763</MsgId>
+</xml>
+2017-12-01 15:39:36 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512113976</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:20170101
+数据：15
+]]></Content>
+</xml>
+2017-12-01 15:39:58 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512113998</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ 数据+2017]]></Content>
+<MsgId>6494480169660530280</MsgId>
+</xml>
+2017-12-01 15:39:58 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512113998</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[1]]></Content>
+</xml>
+2017-12-01 15:41:41 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512114101</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ 数据+2017]]></Content>
+<MsgId>6494480612042161785</MsgId>
+</xml>
+2017-12-01 15:41:41 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512114101</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[1]]></Content>
+</xml>
+2017-12-01 15:49:23 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512114563</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ 数据+2017]]></Content>
+<MsgId>6494482596317052649</MsgId>
+</xml>
+2017-12-01 15:49:23 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512114563</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[6]]></Content>
+</xml>
+2017-12-01 15:50:09 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512114609</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ 数据+2017]]></Content>
+<MsgId>6494482793885548274</MsgId>
+</xml>
+2017-12-01 15:50:09 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512114609</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:20171201
+数据：12
+  时间:20170101
+数据：15
+  时间:20170613
+数据：60
+  时间:20170808
+数据：34
+  时间:20170918
+数据：39
+  时间:20170314
+数据：36
+ ]]></Content>
+</xml>
+2017-12-01 15:53:10 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512114790</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ 数据+2017]]></Content>
+<MsgId>6494483571274628928</MsgId>
+</xml>
+2017-12-01 15:53:10 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512114790</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[提交参数不正确，无此日期]]></Content>
+</xml>
+2017-12-01 15:53:46 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512114826</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ 数据+2017]]></Content>
+<MsgId>6494483725893451603</MsgId>
+</xml>
+2017-12-01 15:53:46 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512114826</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:20171201
+数据：12
+ 
+ 时间:20170918
+数据：39
+ 
+ 时间:20170808
+数据：34
+ 
+ 时间:20170613
+数据：60
+ 
+ 时间:20170314
+数据：36
+ 
+ 时间:20170101
+数据：15
+ 
+]]></Content>
+</xml>
+2017-12-01 15:55:05 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512114904</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ 数据+2017]]></Content>
+<MsgId>6494484060900900736</MsgId>
+</xml>
+2017-12-01 15:55:05 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512114905</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:20171201
+数据：12
+
+
+
+时间:20170918
+数据：39
+
+
+
+时间:20170808
+数据：34
+
+
+
+时间:20170613
+数据：60
+
+
+
+时间:20170314
+数据：36
+
+
+
+时间:20170101
+数据：15
+
+]]></Content>
+</xml>
+2017-12-01 15:55:38 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512114938</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ 数据+2017]]></Content>
+<MsgId>6494484206929788813</MsgId>
+</xml>
+2017-12-01 15:55:38 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512114938</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:20171201
+数据：12
+
+时间:20170918
+数据：39
+
+时间:20170808
+数据：34
+
+时间:20170613
+数据：60
+
+时间:20170314
+数据：36
+
+时间:20170101
+数据：15
+]]></Content>
+</xml>
+2017-12-01 15:57:19 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512115039</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[数据+20170101]]></Content>
+<MsgId>6494484640721485752</MsgId>
+</xml>
+2017-12-01 15:57:19 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512115039</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:20170101
+数据：15
+]]></Content>
+</xml>
+2017-12-01 15:57:33 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512115053</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[数据+201701]]></Content>
+<MsgId>6494484700851027901</MsgId>
+</xml>
+2017-12-01 15:57:33 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512115053</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:20170102
+数据：45
+
+时间:20170101
+数据：15
+]]></Content>
+</xml>
+2017-12-01 15:58:10 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512115090</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ 数据*2017]]></Content>
+<MsgId>6494484859764817864</MsgId>
+</xml>
+2017-12-01 15:58:10 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512115090</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度”进行光照强度查询
+5.回复“城市天气”进行天气查询（如：北京天气）]]></Content>
+</xml>
+2017-12-01 15:58:23 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512115103</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[数据+2017]]></Content>
+<MsgId>6494484915599392717</MsgId>
+</xml>
+2017-12-01 15:58:23 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512115103</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:20171201
+数据：12
+
+时间:20170918
+数据：39
+
+时间:20170808
+数据：34
+
+时间:20170613
+数据：60
+
+时间:20170314
+数据：36
+
+时间:20170102
+数据：45
+
+时间:20170101
+数据：15
+]]></Content>
+</xml>
+2017-12-01 16:20:09 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512116409</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[f]]></Content>
+<MsgId>6494490524826681533</MsgId>
+</xml>
+2017-12-01 16:20:09 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512116409</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度”进行光照强度查询
+5.回复“城市天气”进行天气查询（如：北京天气）]]></Content>
+</xml>
+2017-12-02 07:12:57 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv6amE1GEw9N7e4nfE16sQg4]]></FromUserName>
+<CreateTime>1512169977</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[2017-03-14]]></Content>
+<MsgId>6494720597634798717</MsgId>
+</xml>
+2017-12-02 07:12:57 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv6amE1GEw9N7e4nfE16sQg4]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512169977</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度”进行光照强度查询
+5.回复“城市天气”进行天气查询（如：北京天气）]]></Content>
+</xml>
+2017-12-02 07:13:14 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv6amE1GEw9N7e4nfE16sQg4]]></FromUserName>
+<CreateTime>1512169994</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询温度]]></Content>
+<MsgId>6494720670649242751</MsgId>
+</xml>
+2017-12-02 07:13:14 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv6amE1GEw9N7e4nfE16sQg4]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512169994</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[查询温度请输入“温度+日期”，如“温度+2017-03-15” ]]></Content>
+</xml>
+2017-12-02 07:13:26 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv6amE1GEw9N7e4nfE16sQg4]]></FromUserName>
+<CreateTime>1512170006</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[城市天气]]></Content>
+<MsgId>6494720722188850305</MsgId>
+</xml>
+2017-12-02 07:13:30 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv6amE1GEw9N7e4nfE16sQg4]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512170010</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[]]></Content>
+</xml>
+2017-12-05 13:17:59 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv1z3gC2qKl95_p9OwqMbPAQ]]></FromUserName>
+<CreateTime>1512451079</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[2017]]></Content>
+<MsgId>6495927921531673583</MsgId>
+</xml>
+2017-12-05 13:17:59 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv1z3gC2qKl95_p9OwqMbPAQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512451079</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度”进行光照强度查询
+5.回复“城市天气”进行天气查询（如：北京天气）]]></Content>
+</xml>
+2017-12-05 13:18:22 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv1z3gC2qKl95_p9OwqMbPAQ]]></FromUserName>
+<CreateTime>1512451102</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[数据+2017]]></Content>
+<MsgId>6495928020315921394</MsgId>
+</xml>
+2017-12-05 13:18:22 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv1z3gC2qKl95_p9OwqMbPAQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512451102</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:20171201
+数据：12
+
+时间:20170918
+数据：39
+
+时间:20170808
+数据：34
+
+时间:20170613
+数据：60
+
+时间:20170314
+数据：36
+
+时间:20170102
+数据：45
+
+时间:20170101
+数据：15
+]]></Content>
+</xml>
+2017-12-05 13:18:50 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv1z3gC2qKl95_p9OwqMbPAQ]]></FromUserName>
+<CreateTime>1512451130</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[数据+201706]]></Content>
+<MsgId>6495928140575005684</MsgId>
+</xml>
+2017-12-05 13:18:50 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv1z3gC2qKl95_p9OwqMbPAQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512451130</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:20170613
+数据：60
+]]></Content>
+</xml>
+2017-12-05 13:19:08 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv1z3gC2qKl95_p9OwqMbPAQ]]></FromUserName>
+<CreateTime>1512451148</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[20170613]]></Content>
+<MsgId>6495928217884417014</MsgId>
+</xml>
+2017-12-05 13:19:08 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv1z3gC2qKl95_p9OwqMbPAQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512451148</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度”进行光照强度查询
+5.回复“城市天气”进行天气查询（如：北京天气）]]></Content>
+</xml>
+2017-12-05 13:21:52 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv1z3gC2qKl95_p9OwqMbPAQ]]></FromUserName>
+<CreateTime>1512451311</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[数据+20170613]]></Content>
+<MsgId>6495928917964086291</MsgId>
+</xml>
+2017-12-05 13:21:52 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv1z3gC2qKl95_p9OwqMbPAQ]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512451312</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:20170613
+数据：60
+]]></Content>
+</xml>
+2017-12-05 13:24:25 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv8GFGbFB9BLg5YL73h-SFEk]]></FromUserName>
+<CreateTime>1512451465</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[2017]]></Content>
+<MsgId>6495929579389049895</MsgId>
+</xml>
+2017-12-05 13:24:25 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv8GFGbFB9BLg5YL73h-SFEk]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512451465</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度”进行光照强度查询
+5.回复“城市天气”进行天气查询（如：北京天气）]]></Content>
+</xml>
+2017-12-05 13:24:41 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv8GFGbFB9BLg5YL73h-SFEk]]></FromUserName>
+<CreateTime>1512451481</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[查询温度]]></Content>
+<MsgId>6495929648108526634</MsgId>
+</xml>
+2017-12-05 13:24:41 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv8GFGbFB9BLg5YL73h-SFEk]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512451481</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[查询温度请输入“温度+日期”，如“温度+2017-03-15” ]]></Content>
+</xml>
+2017-12-05 13:25:19 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv8GFGbFB9BLg5YL73h-SFEk]]></FromUserName>
+<CreateTime>1512451519</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[温度+2017-04-15]]></Content>
+<MsgId>6495929811317283888</MsgId>
+</xml>
+2017-12-05 13:25:19 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv8GFGbFB9BLg5YL73h-SFEk]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512451519</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[提交参数不正确，无此日期]]></Content>
+</xml>
+2017-12-05 13:25:28 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv8GFGbFB9BLg5YL73h-SFEk]]></FromUserName>
+<CreateTime>1512451527</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[温度+2017-02-15]]></Content>
+<MsgId>6495929845677022258</MsgId>
+</xml>
+2017-12-05 13:25:28 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv8GFGbFB9BLg5YL73h-SFEk]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512451528</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[提交参数不正确，无此日期]]></Content>
+</xml>
+2017-12-05 13:25:46 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv8GFGbFB9BLg5YL73h-SFEk]]></FromUserName>
+<CreateTime>1512451545</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[温度+2017-03-15]]></Content>
+<MsgId>6495929922986433589</MsgId>
+</xml>
+2017-12-05 13:25:46 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv8GFGbFB9BLg5YL73h-SFEk]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512451546</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017-03-15 08:57:56
+温度：22
+]]></Content>
+</xml>
+2017-12-06 09:46:26 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512524784</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[温度+2017-03-14]]></Content>
+<MsgId>6496244482096237135</MsgId>
+</xml>
+2017-12-06 09:46:26 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512524786</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017-03-14 08:28:21
+温度：21
+]]></Content>
+</xml>
+2017-12-06 09:47:09 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512524829</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[温度+2017-03-15]]></Content>
+<MsgId>6496244675369765460</MsgId>
+</xml>
+2017-12-06 09:47:09 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512524829</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017-03-15 08:57:56
+温度：22
+
+时间:2017-03-15 08:57:52
+温度：22
+
+时间:2017-03-15 08:57:48
+温度：22
+
+时间:2017-03-15 08:57:44
+温度：22
+
+时间:2017-03-15 08:57:40
+温度：22
+
+时间:2017-03-15 08:57:36
+温度：22
+
+时间:2017-03-15 08:57:32
+温度：22
+
+时间:2017-03-15 08:57:28
+温度：22
+
+时间:2017-03-15 08:57:24
+温度：22
+
+时间:2017-03-15 08:57:20
+温度：22
+
+时间:2017-03-15 08:57:16
+温度：22
+
+时间:2017-03-15 08:57:12
+温度：22
+
+时间:2017-03-15 08:57:08
+温度：22
+
+时间:2017-03-15 08:57:04
+温度：22
+
+时间:2017-03-15 08:57:00
+温度：22
+
+时间:2017-03-15 08:56:56
+温度：22
+
+时间:2017-03-15 08:56:52
+温度：22
+
+时间:2017-03-15 08:56:48
+温度：22
+
+时间:2017-03-15 08:49:09
+温度：22
+
+时间:2017-03-15 08:49:05
+温度：22
+
+时间:2017-03-15 08:49:01
+温度：22
+
+时间:2017-03-15 08:48:57
+温度：22
+
+时间:2017-03-15 08:48:53
+温度：22
+
+时间:2017-03-15 08:48:49
+温度：22
+
+时间:2017-03-15 08:48:45
+温度：22
+
+时间:2017-03-15 08:48:41
+温度：22
+
+时间:2017-03-15 08:48:37
+温度：22
+
+时间:2017-03-15 08:48:33
+温度：22
+
+时间:2017-03-15 08:48:29
+温度：22
+
+时间:2017-03-15 08:48:25
+温度：22
+
+时间:2017-03-15 08:48:21
+温度：22
+
+时间:2017-03-15 08:48:17
+温度：22
+
+时间:2017-03-15 08:48:13
+温度：22
+
+时间:2017-03-15 08:48:09
+温度：22
+
+时间:2017-03-15 08:48:05
+温度：22
+
+时间:2017-03-15 08:48:01
+温度：22
+
+时间:2017-03-15 08:47:57
+温度：22
+
+时间:2017-03-15 08:47:53
+温度：22
+
+时间:2017-03-15 08:47:49
+温度：22
+
+时间:2017-03-15 08:47:45
+温度：22
+
+时间:2017-03-15 08:47:41
+温度：22
+
+时间:2017-03-15 08:47:37
+温度：22
+
+时间:2017-03-15 08:47:33
+温度：22
+
+时间:2017-03-15 08:47:29
+温度：22
+
+时间:2017-03-15 08:47:25
+温度：22
+
+时间:2017-03-15 08:47:21
+温度：22
+
+时间:2017-03-15 08:47:17
+温度：22
+
+时间:2017-03-15 08:47:13
+温度：22
+
+时间:2017-03-15 08:47:09
+温度：22
+
+时间:2017-03-15 08:47:05
+温度：22
+
+时间:2017-03-15 08:47:01
+温度：22
+
+时间:2017-03-15 08:46:57
+温度：22
+
+时间:2017-03-15 08:46:53
+温度：22
+
+时间:2017-03-15 08:46:49
+温度：22
+
+时间:2017-03-15 08:46:45
+温度：22
+
+时间:2017-03-15 08:46:41
+温度：22
+
+时间:2017-03-15 08:46:37
+温度：22
+
+时间:2017-03-15 08:46:33
+温度：22
+
+时间:2017-03-15 08:46:29
+温度：22
+
+时间:2017-03-15 08:46:25
+温度：22
+
+时间:2017-03-15 08:46:21
+温度：22
+
+时间:2017-03-15 08:46:17
+温度：22
+
+时间:2017-03-15 08:46:13
+温度：22
+
+时间:2017-03-15 08:46:09
+温度：22
+
+时间:2017-03-15 08:46:05
+温度：22
+
+时间:2017-03-15 08:46:01
+温度：22
+
+时间:2017-03-15 08:45:57
+温度：22
+
+时间:2017-03-15 08:45:53
+温度：22
+
+时间:2017-03-15 08:45:49
+温度：22
+
+时间:2017-03-15 08:45:45
+温度：22
+
+时间:2017-03-15 08:45:41
+温度：22
+
+时间:2017-03-15 08:45:37
+温度：22
+
+时间:2017-03-15 08:45:33
+温度：22
+
+时间:2017-03-15 08:45:29
+温度：22
+
+时间:2017-03-15 08:45:25
+温度：22
+
+时间:2017-03-15 08:45:21
+温度：22
+
+时间:2017-03-15 08:45:17
+温度：22
+
+时间:2017-03-15 08:45:13
+温度：22
+
+时间:2017-03-15 08:45:09
+温度：22
+
+时间:2017-03-15 08:45:05
+温度：22
+
+时间:2017-03-15 08:45:01
+温度：22
+
+时间:2017-03-15 08:44:57
+温度：22
+
+时间:2017-03-15 08:44:53
+温度：22
+
+时间:2017-03-15 08:44:49
+温度：22
+
+时间:2017-03-15 08:44:45
+温度：22
+
+时间:2017-03-15 08:44:41
+温度：22
+
+时间:2017-03-15 08:44:37
+温度：22
+
+时间:2017-03-15 08:44:33
+温度：22
+
+时间:2017-03-15 08:44:29
+温度：22
+
+时间:2017-03-15 08:44:25
+温度：22
+
+时间:2017-03-15 08:44:21
+温度：22
+
+时间:2017-03-15 08:44:17
+温度：22
+
+时间:2017-03-15 08:44:13
+温度：22
+
+时间:2017-03-15 08:44:09
+温度：22
+
+时间:2017-03-15 08:44:05
+温度：22
+
+时间:2017-03-15 08:44:01
+温度：22
+
+时间:2017-03-15 08:43:57
+温度：22
+
+时间:2017-03-15 08:43:53
+温度：22
+
+时间:2017-03-15 08:43:49
+温度：22
+
+时间:2017-03-15 08:43:45
+温度：22
+
+时间:2017-03-15 08:43:41
+温度：22
+
+时间:2017-03-15 08:43:37
+温度：22
+
+时间:2017-03-15 08:43:33
+温度：22
+
+时间:2017-03-15 08:43:29
+温度：22
+
+时间:2017-03-15 08:43:25
+温度：22
+
+时间:2017-03-15 08:43:21
+温度：22
+
+时间:2017-03-15 08:43:17
+温度：22
+
+时间:2017-03-15 08:43:13
+温度：22
+
+时间:2017-03-15 08:43:09
+温度：22
+
+时间:2017-03-15 08:43:05
+温度：22
+
+时间:2017-03-15 08:43:01
+温度：22
+
+时间:2017-03-15 08:42:57
+温度：22
+
+时间:2017-03-15 08:42:53
+温度：22
+
+时间:2017-03-15 08:42:49
+温度：22
+
+时间:2017-03-15 08:42:45
+温度：22
+
+时间:2017-03-15 08:42:41
+温度：22
+
+时间:2017-03-15 08:42:37
+温度：22
+
+时间:2017-03-15 08:42:33
+温度：22
+
+时间:2017-03-15 08:42:29
+温度：22
+
+时间:2017-03-15 08:42:25
+温度：22
+
+时间:2017-03-15 08:42:21
+温度：22
+
+时间:2017-03-15 08:42:17
+温度：22
+
+时间:2017-03-15 08:42:13
+温度：22
+
+时间:2017-03-15 08:42:09
+温度：22
+
+时间:2017-03-15 08:42:05
+温度：22
+
+时间:2017-03-15 08:42:01
+温度：22
+
+时间:2017-03-15 08:41:57
+温度：22
+
+时间:2017-03-15 08:41:53
+温度：22
+
+时间:2017-03-15 08:41:49
+温度：22
+
+时间:2017-03-15 08:41:45
+温度：22
+
+时间:2017-03-15 08:41:41
+温度：22
+
+时间:2017-03-15 08:41:37
+温度：22
+
+时间:2017-03-15 08:41:33
+温度：22
+
+时间:2017-03-15 08:41:29
+温度：22
+
+时间:2017-03-15 08:41:25
+温度：22
+
+时间:2017-03-15 08:41:21
+温度：22
+
+时间:2017-03-15 08:41:17
+温度：22
+
+时间:2017-03-15 08:41:13
+温度：22
+
+时间:2017-03-15 08:41:09
+温度：22
+
+时间:2017-03-15 08:41:05
+温度：22
+
+时间:2017-03-15 08:41:01
+温度：22
+
+时间:2017-03-15 08:40:57
+温度：22
+
+时间:2017-03-15 08:40:53
+温度：22
+
+时间:2017-03-15 08:40:49
+温度：22
+
+时间:2017-03-15 08:40:45
+温度：22
+
+时间:2017-03-15 08:40:41
+温度：22
+
+时间:2017-03-15 08:40:37
+温度：22
+
+时间:2017-03-15 08:40:33
+温度：22
+
+时间:2017-03-15 08:40:29
+温度：22
+
+时间:2017-03-15 08:40:25
+温度：22
+
+时间:2017-03-15 08:40:21
+温度：22
+
+时间:2017-03-15 08:40:17
+温度：22
+
+时间:2017-03-15 08:40:13
+温度：22
+
+时间:2017-03-15 08:40:09
+温度：22
+
+时间:2017-03-15 08:40:05
+温度：22
+
+时间:2017-03-15 08:40:01
+温度：22
+
+时间:2017-03-15 08:39:57
+温度：22
+
+时间:2017-03-15 08:39:53
+温度：22
+
+时间:2017-03-15 08:39:49
+温度：22
+
+时间:2017-03-15 08:39:45
+温度：22
+
+时间:2017-03-15 08:39:41
+温度：22
+
+时间:2017-03-15 08:39:37
+温度：22
+
+时间:2017-03-15 08:39:33
+温度：22
+
+时间:2017-03-15 08:39:29
+温度：22
+
+时间:2017-03-15 08:39:25
+温度：22
+
+时间:2017-03-15 08:39:21
+温度：22
+
+时间:2017-03-15 08:39:17
+温度：22
+
+时间:2017-03-15 08:39:13
+温度：22
+
+时间:2017-03-15 08:39:09
+温度：22
+
+时间:2017-03-15 08:39:05
+温度：22
+
+时间:2017-03-15 08:39:01
+温度：22
+
+时间:2017-03-15 08:38:57
+温度：22
+
+时间:2017-03-15 08:38:53
+温度：22
+
+时间:2017-03-15 08:38:49
+温度：22
+
+时间:2017-03-15 08:38:45
+温度：22
+
+时间:2017-03-15 08:38:41
+温度：22
+
+时间:2017-03-15 08:38:37
+温度：22
+
+时间:2017-03-15 08:38:33
+温度：22
+
+时间:2017-03-15 08:38:29
+温度：22
+
+时间:2017-03-15 08:38:25
+温度：22
+
+时间:2017-03-15 08:38:21
+温度：22
+
+时间:2017-03-15 08:38:17
+温度：22
+
+时间:2017-03-15 08:38:13
+温度：22
+
+时间:2017-03-15 08:38:09
+温度：22
+
+时间:2017-03-15 08:38:05
+温度：22
+
+时间:2017-03-15 08:38:01
+温度：22
+
+时间:2017-03-15 08:37:57
+温度：22
+
+时间:2017-03-15 08:37:53
+温度：22
+
+时间:2017-03-15 08:37:49
+温度：22
+
+时间:2017-03-15 08:37:45
+温度：22
+
+时间:2017-03-15 08:37:41
+温度：22
+
+时间:2017-03-15 08:37:37
+温度：22
+
+时间:2017-03-15 08:37:33
+温度：22
+
+时间:2017-03-15 08:37:29
+温度：22
+
+时间:2017-03-15 08:37:25
+温度：22
+
+时间:2017-03-15 08:37:21
+温度：22
+
+时间:2017-03-15 08:37:17
+温度：22
+
+时间:2017-03-15 08:37:13
+温度：22
+
+时间:2017-03-15 08:37:09
+温度：22
+
+时间:2017-03-15 08:37:05
+温度：22
+
+时间:2017-03-15 08:37:01
+温度：22
+
+时间:2017-03-15 08:36:57
+温度：22
+
+时间:2017-03-15 08:36:53
+温度：22
+
+时间:2017-03-15 08:36:49
+温度：22
+
+时间:2017-03-15 08:36:45
+温度：22
+
+时间:2017-03-15 08:36:41
+温度：22
+
+时间:2017-03-15 08:36:37
+温度：22
+
+时间:2017-03-15 08:36:33
+温度：22
+
+时间:2017-03-15 08:36:29
+温度：22
+
+时间:2017-03-15 08:36:25
+温度：22
+
+时间:2017-03-15 08:36:21
+温度：22
+
+时间:2017-03-15 08:36:17
+温度：22
+
+时间:2017-03-15 08:36:13
+温度：22
+
+时间:2017-03-15 08:36:09
+温度：22
+
+时间:2017-03-15 08:36:05
+温度：22
+
+时间:2017-03-15 08:36:01
+温度：22
+
+时间:2017-03-15 08:35:57
+温度：22
+
+时间:2017-03-15 08:35:53
+温度：22
+
+时间:2017-03-15 08:35:49
+温度：22
+
+时间:2017-03-15 08:35:45
+温度：22
+
+时间:2017-03-15 08:35:41
+温度：22
+
+时间:2017-03-15 08:35:37
+温度：22
+
+时间:2017-03-15 08:35:33
+温度：22
+
+时间:2017-03-15 08:35:29
+温度：22
+
+时间:2017-03-15 08:35:25
+温度：22
+
+时间:2017-03-15 08:35:21
+温度：22
+
+时间:2017-03-15 08:35:17
+温度：22
+
+时间:2017-03-15 08:35:13
+温度：22
+
+时间:2017-03-15 08:35:09
+温度：22
+
+时间:2017-03-15 08:35:05
+温度：22
+
+时间:2017-03-15 08:35:01
+温度：21
+
+时间:2017-03-15 08:34:57
+温度：22
+
+时间:2017-03-15 08:34:53
+温度：21
+
+时间:2017-03-15 08:34:49
+温度：21
+
+时间:2017-03-15 08:34:45
+温度：21
+
+时间:2017-03-15 08:34:41
+温度：21
+
+时间:2017-03-15 08:34:37
+温度：21
+
+时间:2017-03-15 08:34:33
+温度：21
+
+时间:2017-03-15 08:34:29
+温度：21
+
+时间:2017-03-15 08:34:25
+温度：21
+
+时间:2017-03-15 08:34:21
+温度：21
+
+时间:2017-03-15 08:34:17
+温度：21
+
+时间:2017-03-15 08:34:13
+温度：21
+
+时间:2017-03-15 08:34:09
+温度：21
+
+时间:2017-03-15 08:34:05
+温度：21
+
+时间:2017-03-15 08:34:01
+温度：21
+
+时间:2017-03-15 08:33:57
+温度：21
+
+时间:2017-03-15 08:33:53
+温度：21
+
+时间:2017-03-15 08:33:49
+温度：21
+
+时间:2017-03-15 08:33:45
+温度：21
+
+时间:2017-03-15 08:33:41
+温度：21
+
+时间:2017-03-15 08:33:37
+温度：21
+
+时间:2017-03-15 08:33:33
+温度：21
+
+时间:2017-03-15 08:33:29
+温度：21
+
+时间:2017-03-15 08:33:25
+温度：21
+
+时间:2017-03-15 08:33:21
+温度：21
+
+时间:2017-03-15 08:33:17
+温度：21
+
+时间:2017-03-15 08:33:13
+温度：21
+
+时间:2017-03-15 08:33:09
+温度：21
+
+时间:2017-03-15 08:33:05
+温度：21
+
+时间:2017-03-15 08:33:01
+温度：21
+
+时间:2017-03-15 08:32:57
+温度：21
+
+时间:2017-03-15 08:32:53
+温度：21
+
+时间:2017-03-15 08:32:49
+温度：21
+
+时间:2017-03-15 08:32:45
+温度：21
+
+时间:2017-03-15 08:32:41
+温度：21
+
+时间:2017-03-15 08:32:37
+温度：21
+
+时间:2017-03-15 08:32:33
+温度：21
+
+时间:2017-03-15 08:32:29
+温度：21
+
+时间:2017-03-15 08:32:25
+温度：21
+
+时间:2017-03-15 08:32:21
+温度：21
+
+时间:2017-03-15 08:32:17
+温度：21
+
+时间:2017-03-15 08:32:13
+温度：21
+
+时间:2017-03-15 08:32:09
+温度：21
+
+时间:2017-03-15 08:32:05
+温度：21
+
+时间:2017-03-15 08:32:01
+温度：21
+
+时间:2017-03-15 08:31:57
+温度：21
+
+时间:2017-03-15 08:31:53
+温度：21
+
+时间:2017-03-15 08:31:49
+温度：21
+
+时间:2017-03-15 08:31:45
+温度：21
+
+时间:2017-03-15 08:31:41
+温度：21
+
+时间:2017-03-15 08:31:37
+温度：21
+
+时间:2017-03-15 08:31:33
+温度：21
+
+时间:2017-03-15 08:31:29
+温度：21
+
+时间:2017-03-15 08:31:25
+温度：21
+
+时间:2017-03-15 08:31:21
+温度：21
+
+时间:2017-03-15 08:31:17
+温度：21
+
+时间:2017-03-15 08:31:13
+温度：21
+
+时间:2017-03-15 08:31:09
+温度：21
+
+时间:2017-03-15 08:31:05
+温度：21
+
+时间:2017-03-15 08:31:01
+温度：21
+
+时间:2017-03-15 08:30:57
+温度：21
+
+时间:2017-03-15 08:30:53
+温度：21
+
+时间:2017-03-15 08:30:49
+温度：21
+
+时间:2017-03-15 08:30:45
+温度：21
+
+时间:2017-03-15 08:30:41
+温度：21
+
+时间:2017-03-15 08:30:37
+温度：21
+
+时间:2017-03-15 08:30:33
+温度：21
+
+时间:2017-03-15 08:30:29
+温度：21
+
+时间:2017-03-15 08:30:25
+温度：21
+
+时间:2017-03-15 08:30:21
+温度：21
+
+时间:2017-03-15 08:30:17
+温度：21
+
+时间:2017-03-15 08:30:13
+温度：21
+
+时间:2017-03-15 08:30:09
+温度：21
+
+时间:2017-03-15 08:30:05
+温度：21
+
+时间:2017-03-15 08:30:01
+温度：21
+
+时间:2017-03-15 08:29:57
+温度：21
+
+时间:2017-03-15 08:29:53
+温度：21
+
+时间:2017-03-15 08:29:49
+温度：21
+
+时间:2017-03-15 08:29:45
+温度：21
+
+时间:2017-03-15 08:29:41
+温度：21
+
+时间:2017-03-15 08:29:37
+温度：21
+
+时间:2017-03-15 08:29:33
+温度：21
+
+时间:2017-03-15 08:29:29
+温度：21
+
+时间:2017-03-15 08:29:25
+温度：21
+
+时间:2017-03-15 08:29:21
+温度：21
+
+时间:2017-03-15 08:29:17
+温度：21
+
+时间:2017-03-15 08:29:13
+温度：21
+
+时间:2017-03-15 08:29:09
+温度：21
+
+时间:2017-03-15 08:29:05
+温度：21
+
+时间:2017-03-15 08:29:01
+温度：21
+
+时间:2017-03-15 08:28:57
+温度：21
+
+时间:2017-03-15 08:28:53
+温度：21
+
+时间:2017-03-15 08:28:49
+温度：21
+
+时间:2017-03-15 08:28:45
+温度：21
+
+时间:2017-03-15 08:28:41
+温度：21
+
+时间:2017-03-15 08:28:37
+温度：21
+
+时间:2017-03-15 08:28:33
+温度：21
+
+时间:2017-03-15 08:28:33
+温度：21
+
+时间:2017-03-15 08:28:29
+温度：21
+
+时间:2017-03-15 08:28:29
+温度：21
+
+时间:2017-03-15 08:28:25
+温度：21
+
+时间:2017-03-15 08:28:25
+温度：21
+
+时间:2017-03-15 08:28:21
+温度：21
+
+时间:2017-03-15 08:28:17
+温度：21
+]]></Content>
+</xml>
+2017-12-06 09:49:30 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512524970</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[温度+2017-03-15]]></Content>
+<MsgId>6496245280960154208</MsgId>
+</xml>
+2017-12-06 09:49:30 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512524970</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017-03-15 08:57:56
+温度：22
+
+时间:2017-03-15 08:57:52
+温度：22
+
+时间:2017-03-15 08:57:48
+温度：22
+
+时间:2017-03-15 08:57:44
+温度：22
+
+时间:2017-03-15 08:57:40
+温度：22
+
+时间:2017-03-15 08:57:36
+温度：22
+
+时间:2017-03-15 08:57:32
+温度：22
+
+时间:2017-03-15 08:57:28
+温度：22
+
+时间:2017-03-15 08:57:24
+温度：22
+
+时间:2017-03-15 08:57:20
+温度：22
+]]></Content>
+</xml>
+2017-12-06 09:57:59 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512525478</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[温度+2017]]></Content>
+<MsgId>6496247462803540634</MsgId>
+</xml>
+2017-12-06 09:57:59 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512525479</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017-03-15 08:57:56
+温度：22
+
+时间:2017-03-15 08:57:52
+温度：22
+
+时间:2017-03-15 08:57:48
+温度：22
+
+时间:2017-03-15 08:57:44
+温度：22
+
+时间:2017-03-15 08:57:40
+温度：22
+
+时间:2017-03-15 08:57:36
+温度：22
+
+时间:2017-03-15 08:57:32
+温度：22
+
+时间:2017-03-15 08:57:28
+温度：22
+
+时间:2017-03-15 08:57:24
+温度：22
+
+时间:2017-03-15 08:57:20
+温度：22
+]]></Content>
+</xml>
+2017-12-06 09:58:10 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512525489</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[温度+20170315]]></Content>
+<MsgId>6496247510048180896</MsgId>
+</xml>
+2017-12-06 09:58:10 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512525490</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[提交参数不正确，无此日期]]></Content>
+</xml>
+2017-12-06 09:58:37 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512525517</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[温度+20170315]]></Content>
+<MsgId>6496247630307265191</MsgId>
+</xml>
+2017-12-06 09:58:37 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512525517</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[提交参数不正确，无此日期]]></Content>
+</xml>
+2017-12-06 09:58:47 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512525526</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[温度+2017 03 15]]></Content>
+<MsgId>6496247668961970858</MsgId>
+</xml>
+2017-12-06 09:58:47 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512525527</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017 03 15 08:28:33
+温度：21
+]]></Content>
+</xml>
+2017-12-06 10:17:27 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512526646</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ f]]></Content>
+<MsgId>6496252479325342521</MsgId>
+</xml>
+2017-12-06 10:17:27 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512526647</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[欢迎关注水培生菜环境监测系统
+本系统用于对水培生菜的环境参数检测
+1.回复“查询温度”进行温度查询
+2.回复“查询湿度”进行湿度查询
+3.回复“查询二氧化碳浓度”进行二氧化碳浓度查询
+4.回复“查询光照强度”进行光照强度查询
+5.回复“查询草莓”进行草莓查询
+6.回复“查询番茄”进行番茄数据查询
+7.回复“城市天气”进行天气查询（如：北京天气）]]></Content>
+</xml>
+2017-12-06 10:17:38 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512526658</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[草莓+2017]]></Content>
+<MsgId>6496252530864950077</MsgId>
+</xml>
+2017-12-06 10:19:56 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512526796</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[草莓+2017]]></Content>
+<MsgId>6496253123570436939</MsgId>
+</xml>
+2017-12-06 10:20:03 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512526802</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[草莓+2016]]></Content>
+<MsgId>6496253149340240719</MsgId>
+</xml>
+2017-12-06 10:20:10 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512526810</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[番茄+2016]]></Content>
+<MsgId>6496253183699979092</MsgId>
+</xml>
+2017-12-06 10:20:31 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512526830</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[番茄+2016.12.13]]></Content>
+<MsgId>6496253269599325016</MsgId>
+</xml>
+2017-12-06 10:21:03 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512526862</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[草莓+2017]]></Content>
+<MsgId>6496253407038278496</MsgId>
+</xml>
+2017-12-06 10:21:03 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512526863</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:
+序号:
+NO3_N:109.07 
+K:
+Ca:37.02 
+EC:1198
+pH:6.28 
+DO:8.98
+
+时间:
+序号:
+NO3_N:110.98 
+K:
+Ca:37.02 
+EC:1215
+pH:6.18 
+DO:8.88
+
+时间:
+序号:
+NO3_N:150.11 
+K:
+Ca:84.25 
+EC:1579
+pH:6.04 
+DO:9.03
+
+时间:
+序号:
+NO3_N:152.63 
+K:
+Ca:86.44 
+EC:1583
+pH:6.07 
+DO:8.76
+
+时间:
+序号:
+NO3_N:144.82 
+K:
+Ca:77.69 
+EC:1503
+pH:6.00 
+DO:8.73
+
+时间:
+序号:
+NO3_N:142.76 
+K:
+Ca:77.69 
+EC:1510
+pH:5.99 
+DO:8.35
+
+时间:
+序号:
+NO3_N:138.88 
+K:
+Ca:71.17 
+EC:1446
+pH:6.04 
+DO:9.13
+
+时间:
+序号:
+NO3_N:144.65 
+K:
+Ca:73.43 
+EC:1455
+pH:5.99 
+DO:8.9
+
+时间:
+序号:
+NO3_N:133.60 
+K:
+Ca:61.30 
+EC:1390
+pH:6.37 
+DO:9.12
+
+时间:
+序号:
+NO3_N:134.68 
+K:
+Ca:63.51 
+EC:1399
+pH:6.01 
+DO:8.83
+]]></Content>
+</xml>
+2017-12-06 10:22:44 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512526964</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[草莓+2016]]></Content>
+<MsgId>6496253845124942700</MsgId>
+</xml>
+2017-12-06 10:22:44 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512526964</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2016.12.31
+序号:51
+NO3_N:109.36 
+K:187.38 
+Ca:50.85 
+EC:1202
+pH:6.52 
+DO:8.9
+
+时间:2016.12.30
+序号:49
+NO3_N:109.57 
+K:182.98 
+Ca:46.51 
+EC:1170
+pH:6.55 
+DO:8.6
+
+时间:2016.12.30
+序号:50
+NO3_N:111.87 
+K:184.08 
+Ca:46.51 
+EC:1153
+pH:6.47 
+DO:8.62
+]]></Content>
+</xml>
+2017-12-06 10:22:55 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512526975</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[番茄+2016]]></Content>
+<MsgId>6496253892369582958</MsgId>
+</xml>
+2017-12-06 10:22:55 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512526975</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2016.12.31
+序号:17
+NO3_N:90.61 
+K:328.61 
+Ca:55.18 
+EC:1741
+pH:6.15 
+DO:9.52
+
+时间:2016.12.30
+序号:16
+NO3_N:94.55 
+K:327.18 
+Ca:50.85 
+EC:1736
+pH:6.12 
+DO:10.07
+
+时间:2016.12.29
+序号:15
+NO3_N:71.78 
+K:344.90 
+Ca:64.06 
+EC:1825
+pH:7.36 
+DO:9.9
+]]></Content>
+</xml>
+2017-12-06 10:23:06 R 
+<xml><ToUserName><![CDATA[gh_5c38c7b35c82]]></ToUserName>
+<FromUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></FromUserName>
+<CreateTime>1512526985</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[草莓+2017]]></Content>
+<MsgId>6496253935319255922</MsgId>
+</xml>
+2017-12-06 10:23:06 T 
+<xml>
+    <ToUserName><![CDATA[o0vrLv7BnXfXY35AT2E5HFreuj1s]]></ToUserName>
+    <FromUserName><![CDATA[gh_5c38c7b35c82]]></FromUserName>
+    <CreateTime>1512526986</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[时间:2017.01.14
+序号:74
+NO3_N:109.07 
+K:186.15 
+Ca:37.02 
+EC:1198
+pH:6.28 
+DO:8.98
+
+时间:2017.01.14
+序号:75
+NO3_N:110.98 
+K:183.95 
+Ca:37.02 
+EC:1215
+pH:6.18 
+DO:8.88
+
+时间:2017.01.13
+序号:72
+NO3_N:150.11 
+K:231.66 
+Ca:84.25 
+EC:1579
+pH:6.04 
+DO:9.03
+]]></Content>
+</xml>

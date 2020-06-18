@@ -1,0 +1,95 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>接口-ESSH组监测数据综合管理信息平台</title>
+<style>
+.t1{float:left;width:100%;min-height:500px;background:#15CB00;border:1px solid #FFF;font-family:微软雅黑;font-size:30px}
+.t2{float:left;width:60%;min-height:1000px;background:#FF0004;border:1px solid #FFF;font-family:微软雅黑;font-size:30px}
+.t3{float:left;width:19.9%;min-height:500px;background:#000;}
+.r3{min-width:80%;min-height:30px;background:#FFF;font-family:"微软雅黑";font-size:50px;}
+</style>
+<link rel="stylesheet" type="text/css" href="/css/spsc.css">
+<link rel="stylesheet" type="text/css" href="/css/main.css">
+    <script type="text/javascript" src="plugins/jquery-1.4.4.min.js"></script>
+</head>
+
+<body topmargin="0" marginwidth="0" onload="Act0()">
+<script>
+function Act0(){
+document.getElementById("wechat").style.display='none';
+}
+</script>
+<div class="main">
+<nav>
+<div class="n1">
+<div class="n2a">
+<div style="height:10px"></div>
+<img src="/pic/cau.bmp" alt="logo" height="80" width="100">
+</div>
+<div class="n2b">
+<div style="height:10px"></div>
+<img src="/pic/pacau.png" alt="logo" height="80" width="100">
+</div>
+<div class="n3">
+<div class="n4">
+    <ul>
+      <li><a href="main.php" title="主页" target="_parent">主页</br>INDEX</a></li>
+      <li><a href="environment.php" title="温室监测" target="_parent">温室监测</br>Greenhouse</a></li>
+      <li><a href="soil.php" title="土壤养分监测" target="_parent">土壤养分监测</br>SoilNutrient</br>Monitoring</a></li>
+      <li><a href="strawberry.php" title="水培草莓" target="_parent">水培草莓</br>Hydroponic</br>Strawberry</a></li>
+	  <li><a href="tomato.php" title="水培番茄" target="_parent">水培番茄</br>Hydroponic</br>Tomato</a></li>
+	  <li><a href="lettuce.php" title="水培生菜" target="_parent">水培生菜</br>Hydroponic</br>Lettuce</a></li>
+      <li><a href="intro.html" title="系统介绍" target="_parent">系统介绍</br>INFO</a></li>
+    </ul>
+</div>
+</div>
+<div class="n5">
+<img src="/pic/wechat.jpg" alt="wechat" height="100" onmousemove="displaywechat(this)" onmouseout="undisplaywechat(this)"></img>
+</div>
+<div id="wechat">
+<img src="/pic/wechatlogo.jpg" alt="welogo" height="100%" width="100%"></img>
+</div>
+</div>	
+  </nav>   
+  <script>
+  function displaywechat(x)
+  {
+  document.getElementById("wechat").style.display='';
+  }
+  function undisplaywechat(x)
+  {
+  document.getElementById("wechat").style.display='none';
+  }
+  </script>        
+</body>
+<div id="wrapper">
+<div id="cell">
+<h1>「ESSH组监测数据综合管理信息平台」</h1>
+</div>
+</div>
+<div id="wrapper2">
+<center>
+<div class="e4"></div>
+<div class="e4"></div>
+<button class="r3" onclick="window.location.href='spare/shengcai/main.html'">生菜</button>
+<div class="e4"></div>
+<button class="r3" onclick="window.location.href='spare/turang/main.html'">土壤</button>
+<div class="e4"></div>
+<button class="r3" onclick="window.location.href='spare/caomei/main.html'">草莓</button>
+<div class="e4"></div>
+<button class="r3" onclick="window.location.href='spare/fanqie/main.html'">番茄</button>
+<div class="e4"></div>
+</center>
+</div>
+ <footer>
+            <div id="f1">
+ <center>
+				版权所有：</br>
+                现代精细农业系统集成研究教育部重点实验室，中国农业大学，北京100083</br>
+                农业部农业信息获取技术重点实验室，中国农业大学，北京100083</br>
+                </center>
+            </div>
+			</div>
+        </footer>
+</html>
