@@ -1,5 +1,5 @@
 # 水培生菜监测系统
-网址：[www.causpsc.com](www.causpsc.com)
+网址：[www.causpsc.com](causpsc.com)
 
 
 # 系统介绍
